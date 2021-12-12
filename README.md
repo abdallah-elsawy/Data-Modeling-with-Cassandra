@@ -22,6 +22,8 @@ For this project, we'll be working with one dataset: event_data. The directory o
 event_data/2018-11-08-events.csv
 event_data/2018-11-09-events.csv
 
+![](Resources/image_event_datafile_new.jpg)
+
 
 ## Project Steps
 Below are steps we can follow to complete each component of this project.
